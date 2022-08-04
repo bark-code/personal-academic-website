@@ -1,7 +1,7 @@
 name: Researcher
 description: Personal website
 menu:
- - page: AboutMe
+ - page: About
    url: /about
  - page: Papers
    url: /papers
