@@ -52,3 +52,5 @@ markdown: kramdown
 encoding: utf-8
 baseurl: 
 locale: en_GB
+
+theme: jekyll-theme-cayman
